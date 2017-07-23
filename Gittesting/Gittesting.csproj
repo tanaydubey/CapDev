@@ -75,6 +75,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="doc1.txt" />
+    <Content Include="doc2.txt" />
+    <Content Include="doc3.txt" />
+    <Content Include="doc4.txt" />
+    <Content Include="doc5.txt" />
+    <Content Include="doc6.txt" />
+    <Content Include="doc7.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
